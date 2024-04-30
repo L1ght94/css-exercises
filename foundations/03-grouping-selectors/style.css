@@ -1,4 +1,5 @@
-button {
+.affirmative,
+.negative {
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
@@ -6,6 +7,7 @@ button {
 .affirmative {
     background-color: hsl(0, 0%, 0%);
     color: #ffffff;
+    font-weight: bold;
 }
 
 .negative {
